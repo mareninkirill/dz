@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777121090 source:c:\dz2\graphconnectivity\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
